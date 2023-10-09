@@ -56,6 +56,9 @@
     gap: 16px;
     border-radius: 12px;
     background: #4894FE;
+    margin: 37px 24px;
+    justify-content: space-between;
+    align-self: stretch;
 }
 
 .first--row {
@@ -65,9 +68,9 @@
 }
 
 .pr-logo {
-    width: 58.44px;
-    height: 73.08px;
-    flex-shrink: 0;
+    margin-right: 5px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
 }
 
@@ -92,4 +95,17 @@
     font-style: normal;
     font-weight: 400;
     line-height: normal;
+}
+
+.layer {
+    display: flex;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.icon {
+    width: 24px;
+    height: 24px;
+    flex-shrink: 0;
 }
