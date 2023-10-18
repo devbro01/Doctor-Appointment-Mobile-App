@@ -59,7 +59,7 @@ html {
 
 .general {
     display: flex;
-    width: 300px;
+    width: 350px;
     padding: 20px;
     flex-direction: column;
     align-items: center;
@@ -67,8 +67,6 @@ html {
     border-radius: 12px;
     background: #4894FE;
     margin-top: 37px;
-    justify-content: space-between;
-    align-self: stretch;
 }
 
 .first--row {
